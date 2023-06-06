@@ -2,6 +2,7 @@
 # Backend do projeto FoodExplore
 
 conclusão do curso do explore
+- Usando Nodejs sqlite knex
 
 
 ## Documentação da API
